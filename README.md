@@ -11,7 +11,7 @@ The following is the reference paper proposing the dataset:
 D Roh, R Kumar, A Ngo, "LLM-Assisted Cheating Detection in Korean Language via Keystrokes", The IEEE International Joint Conference on Biometrics (IJCB), 2025
 
 @inProceedings{Roh2025LLMCheatingDetection,
-  author    = {Dong Hyun Roh and R. Kumar and An Ngo},
+  author    = {Dong Hyun Roh and Rajesh Kumar and An Ngo},
   title     = {LLM‑Assisted Cheating Detection in Korean Language via Keystrokes},
   booktitle = {Proceedings of the IEEE International Joint Conference on Biometrics (IJCB)},
   year      = {2025},
