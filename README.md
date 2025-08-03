@@ -8,7 +8,7 @@ Data collection portal link for Phase 1 and Phase 2.
 
 The following is the reference paper proposing the dataset: 
 
-D Roh, R Kumar, A Ngo, "LLM-Assisted Cheating Detection in Korean Language via Keystrokes", The IEEE International Joint Conference on Biometrics (IJCB), 2025
+Dong Hyun Roh, Rajesh Kumar, An Ngo, "LLM-Assisted Cheating Detection in Korean Language via Keystrokes", The IEEE International Joint Conference on Biometrics (IJCB), 2025
 
 @inProceedings{Roh2025LLMCheatingDetection,
   author    = {Dong Hyun Roh and Rajesh Kumar and An Ngo},
